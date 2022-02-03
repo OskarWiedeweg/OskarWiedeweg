@@ -5,8 +5,6 @@ A passionate frontend developer from Germany
 
 - 🌱 I’m currently learning **Unit Testing**
 
-- 👯 I’m looking to collaborate on [Leon](https://github.com/Utopiamc/UtopiaCode-Leon)
-
 - 💬 Ask me about **Angular, Docker, NestJs, Spring, etc.**
 
 <h3 align="left">Languages and Tools:</h3>
