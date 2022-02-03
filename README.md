@@ -13,6 +13,6 @@ A passionate frontend developer from Germany
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oskarwiedeweg&show_icons=true&locale=en&layout=compact" alt="oskarwiedeweg" />
 
-&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=oskarwiedeweg&show_icons=true&locale=en" alt="oskarwiedeweg" />
+<img src="https://github-readme-stats.vercel.app/api?username=oskarwiedeweg&show_icons=true&locale=en" alt="oskarwiedeweg" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=oskarwiedeweg&" alt="oskarwiedeweg" />
