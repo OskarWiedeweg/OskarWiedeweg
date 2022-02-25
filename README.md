@@ -3,7 +3,7 @@ A passionate frontend developer from Germany
 
 - 🔭 I’m currently working on [Schulverwaltung](https://github.com/OskarWiedeweg/Schulverwaltung)
 
-- 🌱 I’m currently learning **Unit Testing**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 💬 Ask me about **Angular, Docker, NestJs, Spring, etc.**
 
