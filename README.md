@@ -33,7 +33,7 @@ A passionate fullstack dev located in Germany
 
 ### My Website
 <p>On my website I offer website, app and API development. You can also contact me to receive a non-binding assessment of your project.</p>
-<a href="https://oskarwiedeweg.com">Click here</a>
+<a href="http://oskarwiedeweg.com">Click here</a>
 
 ### Fiverr
 <p>On my Fiverr profile I offer website, app and API development.</p>
